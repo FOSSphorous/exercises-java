@@ -27,3 +27,7 @@ Read user input from a console, in the form of quiz scores. Use this information
 ### FizzBuzzMain.java
 
 Count up, printing these numbers to console. Print "fizz" when the number is divisible by three and "buzz" when they are divisible by five. The program should display "fizzbuzz" when a number is divisible by both three and five.
+
+### SalaryTaxCalc.java
+
+Collect user input from console for name, hours worked, and wage to calculate overtime pay + tax. 
